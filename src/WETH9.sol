@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.18;
+pragma solidity ^0.8.19;
 
 contract WETH9 {
     string public name = "Wrapped Ether";
